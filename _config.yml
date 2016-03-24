@@ -1,28 +1,40 @@
-name: RusNikita
 favicon: null
-layout_spectrum: 0.8506463724188507
-typography_spectrum: 0.03503745561465621
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: RusNikita
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9002908247057348
-  lightness: 0.12679946655407548
-  saturation: 0.18625667411834002
-  rhythmicContrast: 0.10037385555915534
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.6659575
+  brandStrength: 0.9002908247057348
+  lightness: 0.8425532
+  brandColors:
+    - '#000000'
+    - '#DEBF9B'
+    - '#6E5D4A'
+    - '#30FFFF'
+    - '#FCFCFB'
+  rhythmicContrast: 0.3106383
+typography_spectrum: 0.106383
+layout_spectrum: 0.8506463724188507
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
