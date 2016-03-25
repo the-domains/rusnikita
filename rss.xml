@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[RusNikita]]></title>
         <description><![CDATA[RusNikita]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rusnikita/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 17:54:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 25 Mar 2016 02:59:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rusnikita/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd2facec-7577-410f-9946-7a0371b1b9fd.png">]]></description>
+            <link>https://thegrid.ai/rusnikita/bb076c33-6f40-4295-9a64-0a13bd749dbb/index.html</link>
+            <guid isPermaLink="false">bb076c33-6f40-4295-9a64-0a13bd749dbb</guid>
+            <pubDate>Fri, 25 Mar 2016 02:59:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Welcome </p>]]></description>
-            <link>undefined6fed0f71-ac56-4042-b546-371523411b29/index.html</link>
+            <link>https://thegrid.ai/rusnikita/6fed0f71-ac56-4042-b546-371523411b29/index.html</link>
             <guid isPermaLink="false">6fed0f71-ac56-4042-b546-371523411b29</guid>
             <pubDate>Thu, 24 Mar 2016 17:54:16 GMT</pubDate>
         </item>
